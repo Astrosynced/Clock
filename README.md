@@ -6,7 +6,6 @@
   <a href="https://0517.000.pe/">Clocknix</a> •
   <a href="#features">Features</a> •
   <a href="#technologies-used">Technologies Used</a> •
-  <a href="#usage">Usage</a> •
   <a href="#credits">Credits</a> •
   <a href="#author">Author</a> •
   <a href="#socials">Socials</a> 
@@ -27,10 +26,6 @@
 - **HTML5**: Semantic markup for structure.
 - **CSS3**: Styling and design elements.
 - **JavaScript**: Dynamic functionality and interactivity.
-
-## Usage
-
-Simply open the `index.html` file in a web browser to view the Clocknix website. Host it on a web server for online access and share the experience with others.
 
 ## Credits
 
