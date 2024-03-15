@@ -55,6 +55,3 @@ Let's connect! Find me on:
 - [Instagram](https://www.instagram.com/aryannix/)
 
 
-## License
-
-This project is licensed under the [MIT License](link to license file or full license text).
