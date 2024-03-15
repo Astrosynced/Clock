@@ -3,13 +3,13 @@
 <p align="center">A modern and minimalistic clock website for the sleek and stylish.</p>
 
 <p align="center">
+  <a href="https://0517.000.pe/">Clocknix</a> •
   <a href="#features">Features</a> •
   <a href="#technologies-used">Technologies Used</a> •
   <a href="#usage">Usage</a> •
   <a href="#credits">Credits</a> •
   <a href="#author">Author</a> •
-  <a href="#socials">Socials</a> •
-  <a href="#license">License</a>
+  <a href="#socials">Socials</a> 
 </p>
 
 ---
